@@ -66,4 +66,4 @@ optimatic.com, 17377372377, DIRECT
 woobi.com, 13711, DIRECT
 rubiconproject.com, 16640, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 11432, DIRECT, 0bfd66d529a55807
-rubiconproject.com, 20542, DIRECT, 0bfd66d529a55807<!-- html is corrupted -->
+rubiconproject.com, 20542, DIRECT, 0bfd66d529a55807
