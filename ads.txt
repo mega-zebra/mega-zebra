@@ -121,3 +121,5 @@ pubmatic.com, 155986, RESELLER, 5d62403b186f2ace
 pubmatic.com, 118367, RESELLER, 5d62403b186f2ace
 contextweb.com, 561367, RESELLER, 89ff185a4c4e857c
 google.com, pub-8637246282765423, RESELLER, c3e20eee3f780d68
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+adtech.com, 12069, RESELLER
