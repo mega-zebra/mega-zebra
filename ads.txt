@@ -2146,9 +2146,8 @@ yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 smartadserver.com, 4342, RESELLER
 smartadserver.com, 4012, RESELLER
 
-
 ##################################
-# AdinPlay.com ads.txt - 2023-02-09
+# AdinPlay.com ads.txt - 2023-07-11
 ##################################
 
 OWNERDOMAIN=megazebra.com
@@ -2265,7 +2264,24 @@ sonobi.com,7f5fa520f8,RESELLER,d1a215d9eb5aee9e
 media.net,8CUZ1MK22,RESELLER
 triplelift.com, 12396, RESELLER, 6c33edb13117fd86
 risecodes.com,63832beef8189a00015cb6d3,RESELLER
-
+risecodes.com, 643813aab7212c00011c3f28, DIRECT
+pubmatic.com, 160295, RESELLER, 5d62403b186f2ace
+xandr.com, 14082, RESELLER
+rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
+sharethrough.com, 5926d422, RESELLER, d53b998a7bd4ecd2
+sonobi.com, 4a289cdd79, RESELLER, d1a215d9eb5aee9e
+indexexchange.com, 194590, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 335119963, RESELLER
+contextweb.com,562615,RESELLER,89ff185a4c4e857c
+loopme.com, 11362, RESELLER, 6c8d5f95897a5a3b
+yieldmo.com, 2754490424016969782, RESELLER
+openx.com, 537140488, RESELLER, 6a698e2ec38604c6
+media.net, 8CUQ6928Q, RESELLER
+onetag.com, 69f48c2160c8113, RESELLER
+33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
+smartadserver.com, 4284, RESELLER
+freewheel.tv, 1590601, RESELLER
+freewheel.tv, 1590606, RESELLER
 
 
 # 33Across 
@@ -2515,6 +2531,11 @@ pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 
 #Conversant
 conversantmedia.com, 100106, RESELLER, 03113cd04947736d
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
+admanmedia.com, 2050, RESELLER
+Appnerve.com, 187287,  RESELLER
+rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
+
 
 #OneTag
 onetag.com, 7683ebe7bee7969, RESELLER
@@ -2859,6 +2880,86 @@ admanmedia.com, 43, RESELLER
 sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
 contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
 
+
+#nobid
+
+nobid.io, 22931676975, DIRECT
+xandr.com, 11429, RESELLER, f5ab79cb980f11d1
+sharethrough.com, aRE1degH, RESELLER, d53b998a7bd4ecd2
+sonobi.com, 7ad1b9f952, RESELLER, d1a215d9eb5aee9e
+sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
+amxrtb.com, 105199579, RESELLER
+yahoo.com,49648,RESELLER
+rubiconproject.com, 24434, RESELLER, 0bfd66d529a55807
+minutemedia.com, 01gerz67grgj, RESELLER
+pubmatic.com, 161683, RESELLER, 5d62403b186f2ace
+appnexus.com, 8381, RESELLER, f5ab79cb980f11d1
+triplelift.com, 6030, RESELLER, 6c33edb13117fd86
+sonobi.com, 37fbaf262c, RESELLER, d1a215d9eb5aee9e
+openx.com, 540780517, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807
+indexexchange.com, 196326, RESELLER, 50b1c356f2c5c8fc
+yahoo.com, 59407, RESELLER, e1a5b5b6e3255540
+sharethrough.com, xz7QjFBY, RESELLER, d53b998a7bd4ecd2
+inmobi.com,8f261ace12c3486ba2e0d2011cd97976,RESELLER,83e75a7ae333ca9d
+risecodes.com, 63ea59eef828de0001cf1773, RESELLER
+amxrtb.com, 105199691, RESELLER
+inmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER, 83e75a7ae333ca9d
+video.unrulymedia.com, 1352466146, RESELLER
+yahoo.com, 59261, RESELLER, e1a5b5b6e3255540
+gumgum.com, 13926, RESELLER, ffdef49475d318a9
+onetag.com, 694e68b73971b58, RESELLER
+lijit.com, 273657, RESELLER, fafdf38b16bf6b2b
+sovrn.com, 273657, RESELLER, fafdf38b16bf6b2b
+mediafuse.com, 389, RESELLER
+appnexus.com, 9538, RESELLER, f5ab79cb980f11d1
+yahoo.com, 57872, RESELLER
+video.unrulymedia.com, 2997140015, RESELLER
+indexexchange.com, 182257, RESELLER, 50b1c356f2c5c8fc
+152media.info,152M374,RESELLER
+appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
+#media.net_serverside_displayvideo
+media.net, 8CUV34PJ4, DIRECT
+sharethrough.com, koRtppYA, RESELLER, d53b998a7bd4ecd2
+
+#AdaptMX
+
+amxrtb.com, 105199723, DIRECT
+appnexus.com, 12290, RESELLER
+pubmatic.com, 161527, RESELLER
+rubiconproject.com, 23844, RESELLER
+
+
+# Adagio
+
+adagio.io, 1361, RESELLER
+# Adagio - Magnite
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+# Adagio - Pubmatic
+pubmatic.com, 159110, RESELLER, 5d62403b186f2ace
+# Adagio - Improve Digital
+improvedigital.com, 1790, RESELLER
+# Adagio - Onetag
+onetag.com, 6b859b96c564fbe, RESELLER
+# Adagio - Index Exchange
+indexexchange.com, 194558, RESELLER
+
+
+#freewheel
+
+freewheel.tv, 1598995, RESELLER
+freewheel.tv, 1599004, RESELLER
+
+#pgam
+
+pgamssp.com, 64661fa49d522e327b0a8b84, DIRECT
+freewheel.tv, 1489202, RESELLER
+freewheel.tv, 1488706, RESELLER
+rubiconproject.com, 24852, RESELLER, 0bfd66d529a55807
+pubmatic.com, 162623, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 5921144960123684292, RESELLER
+appnexus.com, 9291, RESELLER
+
 ##################################
-# AdinPlay.com ads.txt - 2023-02-09
+# AdinPlay.com ads.txt - 2023-07-11
 ##################################
